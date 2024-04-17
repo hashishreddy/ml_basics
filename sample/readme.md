@@ -26,3 +26,13 @@ can you do tht?
 
 
 okay sure. can I know where actually are you getting the error? I mean after running which cell ?
+
+
+
+pooja i am hashish
+
+
+do you want anything else
+
+
+did you get everything
