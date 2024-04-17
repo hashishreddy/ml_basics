@@ -18,3 +18,8 @@ only with vs code running it gives an error aswell i will ask sir okay pls uploa
 
 
 yeah sure. shall I just name train.ipynb, train_5_model.ipynb, val.ipynb ?
+
+
+
+to fix the memory error sir asked to use a part of orginal data set
+can you do tht?
