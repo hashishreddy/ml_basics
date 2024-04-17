@@ -213,3 +213,7 @@ yeah yeah. pickle file save avvali. code lone undhi. just run cheste chalu.
 
 
 train chesina code lo save thing untundhi chudu last lo. save chesukoni. tharvatha, new code run cheyandi. 
+
+malli code antha oka file lo pamppi
+
+and i should get the csv file
