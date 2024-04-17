@@ -199,3 +199,7 @@ df_predictions = pd.DataFrame({'RandomForest': y_pred_rf, 'LogisticRegression': 
 
 df_predictions.to_csv('predictions.csv', index=False)
 to convert to CSV files is anybody else other than hashish seeing this ???
+
+
+
+i have uploaded all the other required things for all the people. please check and submit
