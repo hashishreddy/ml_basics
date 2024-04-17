@@ -17,3 +17,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'model.pkl'
 
 
 it shows this error how to fix this
+
+
+harshil - I have added one more cell of code in the Puja_train_code.ipynb. Run that first and then run the Puja_val_Code.ipynb
