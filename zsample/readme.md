@@ -28,5 +28,6 @@ reply fast
 uploaded new.ipynb for akhila tara and hashish
 there is random forest , logistic and xgboost 
 take each one tell here  who are taking what and the one taking logistic also add random or xgboost for like better output
+i have given each model in three different nodes so delete other two 
 
 reply ichi saavandi firstu
