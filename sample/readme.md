@@ -12,3 +12,6 @@ when we get memory error, we just have to close all the not necessary folders an
 
 
 and i have done the trained the data with 5 more models. i will upload it as a seperate ipynb file in 2 minutes. please check that too. and submit that also. it might give an edge
+
+
+only with vs code running it gives an error aswell i will ask sir okay pls upload under a different name
