@@ -217,3 +217,5 @@ train chesina code lo save thing untundhi chudu last lo. save chesukoni. tharvat
 malli code antha oka file lo pamppi
 
 and i should get the csv file
+
+harshil - what do you mean by getting the csv file? csv file is the input right. you can just get the score finally. i have updated all the required codes. please check.
