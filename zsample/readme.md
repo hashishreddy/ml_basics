@@ -23,3 +23,8 @@ i will upload in 10 min fellows harshil will also upload
 
 can you guys talk to each other ?
 reply fast
+
+
+uploaded new.ipynb
+there is random forest , logistic and xgboost 
+take each one tell here  who are taking what and the one taking logistic also add random or xgboost for like better output
