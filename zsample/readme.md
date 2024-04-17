@@ -90,3 +90,6 @@ hashish - harshil now we have to use this model and predict the lable for the Cy
 harshil - okay, so should i do the dump and pickle the model for the Cyber1_val_students.csv dataset?
 
 emo edo okati chey
+
+
+deshna?
