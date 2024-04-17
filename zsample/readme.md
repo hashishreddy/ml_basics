@@ -14,3 +14,6 @@ mean time u start finding github repos or kaggle notebooks that are using this d
 
 
 and if possible ask him if the target column is "label"
+
+
+yes target column is label
