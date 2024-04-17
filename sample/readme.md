@@ -46,3 +46,4 @@ harshil - i have shared pdf of the both the trainings(one with the train dataset
 
 
 thank you for the csv file
+wwhat should i write for the eda
