@@ -36,3 +36,6 @@ do you want anything else
 
 
 did you get everything
+
+
+harshil - shall i send you the final csv file which contains all the labels? can you submit it directly? and i will also share the pdf, so that you can directly submit. is that okay?
