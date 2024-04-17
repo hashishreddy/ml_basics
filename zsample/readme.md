@@ -219,3 +219,7 @@ malli code antha oka file lo pamppi
 and i should get the csv file
 
 harshil - what do you mean by getting the csv file? csv file is the input right. you can just get the score finally. i have updated all the required codes. please check.
+
+
+
+in kaggle we need to submit the csv file of the prediction of the labels 
