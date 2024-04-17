@@ -77,4 +77,5 @@ ya gi
 
 adithya - i updated new.ipynb again now i added accuracy function and if u guys are doing change the n_estimators parameter in the function ra u will get different output
 
+tell me if its working ra i gotta go
 
