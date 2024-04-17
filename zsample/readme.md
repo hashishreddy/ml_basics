@@ -203,3 +203,6 @@ to convert to CSV files is anybody else other than hashish seeing this ???
 
 
 harshil - i have uploaded all the other required things for all the people. please check and submit
+
+
+pickle file save avali ga
