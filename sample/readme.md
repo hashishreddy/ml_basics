@@ -15,3 +15,6 @@ and i have done the trained the data with 5 more models. i will upload it as a s
 
 
 only with vs code running it gives an error aswell i will ask sir okay pls upload under a different name
+
+
+yeah sure. shall I just name train.ipynb, train_5_model.ipynb, val.ipynb ?
