@@ -1,17 +1,12 @@
 in lms ds given 
 Webpage safe or not
 
-Goal: You will be performing a Binary classification problem. Predict whether a given website address is shady or legitimate.
-
-Start
-15 minutes ago
-Close
-10 hours to go
-Description
+1)Goal: You will be performing a Binary classification problem. Predict whether a given website address is shady or legitimate.
 
 Your dataset is from a group of cyber scientists who have classified different websites as bad or good websites (Most of the websites are shady and would have been blocked by Fortinet. Please don't try to load them). I let you explore the dataset by yourself rather than giving it in words.
 
-Objective The variable you want to predict is 'label', which is in the last column of the dataset.
+
+2)Objective The variable you want to predict is 'label', which is in the last column of the dataset.
 Evaluation
 
 The F1 score is the harmonic mean of precision and recall. Thus, it symmetrically represents both precision and recall in one metric. Evaluation of individual submission is compared with different F1 scores.
