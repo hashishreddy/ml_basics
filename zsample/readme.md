@@ -93,3 +93,76 @@ emo edo okati chey
 
 
 deshna?
+
+adithya-
+ import pickle
+
+# Save the models
+with open('clf_rf.pkl', 'wb') as f:
+    pickle.dump(clf, f)
+
+with open('clf_lr.pkl', 'wb') as f:
+    pickle.dump(clf_lr, f)
+
+with open('clf_xgb.pkl', 'wb') as f:
+    pickle.dump(clf_xgb, f)
+
+# Save the transformers
+with open('scaler.pkl', 'wb') as f:
+    pickle.dump(scaler, f)
+
+with open('pca.pkl', 'wb') as f:
+    pickle.dump(pca, f)
+import pickle
+import pandas as pd
+
+# Load the models
+with open('clf_rf.pkl', 'rb') as f:
+    clf = pickle.load(f)
+
+with open('clf_lr.pkl', 'rb') as f:
+    clf_lr = pickle.load(f)
+
+with open('clf_xgb.pkl', 'rb') as f:
+    clf_xgb = pickle.load(f)
+
+# Load the transformers
+with open('scaler.pkl', 'rb') as f:
+    scaler = pickle.load(f)
+
+with open('pca.pkl', 'rb') as f:
+    pca = pickle.load(f)
+
+
+lab= LabelEncoder()
+df_val = pd.read_csv('Cyber1_val_students.csv')
+columns_to_en = ['proto', 'service', 'state', 'attack_cat']
+for column in columns_to_en:
+    df_val[column] = lab.fit_transform(df_val[column])
+
+df_val_scaled = scaler.transform(df_val)
+
+# Apply PCA
+df_val_pca = pca.transform(df_val_scaled)
+
+# Convert to DataFrame
+df_val_pca = pd.DataFrame(df_val_pca, columns=[f'PC{i}' for i in range(1, len(df_val.columns) + 1)])
+
+df_val_pca_top3 = df_val_pca[['PC1', 'PC2', 'PC3']]
+
+# Predict the labels using the trained models
+y_pred_rf = clf.predict(df_val_pca_top3)
+y_pred_lr = clf_lr.predict(df_val_pca_top3)
+y_pred_xgb = clf_xgb.predict(df_val_pca_top3)
+
+# Create a DataFrame with the predictions
+df_predictions = pd.DataFrame({
+    'RandomForest': y_pred_rf,
+    'LogisticRegression': y_pred_lr,
+    'XGBoost': y_pred_xgb
+})
+
+print(df_predictions)
+
+
+this is the extension for the latest file I uploaded for predicting label 
