@@ -71,3 +71,4 @@ harshil i am getting this error
 
 
 what about other things ra ?
+y = df['label'] kadha ra. just copy paste what i have done ra. i think it should be coming
