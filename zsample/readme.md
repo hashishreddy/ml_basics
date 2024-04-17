@@ -81,3 +81,8 @@ tell me if its working ra i gotta go
 
 
 harshil - i have kept one more code named Untitled.ipynb with accuracy 0.99. who ever wants use it guys. and let others know that you are using so that there will be no confusion.
+
+
+
+
+hashish - harshil now we have to use this model and predict the lable for the Cyber1_val_students.csv data set
