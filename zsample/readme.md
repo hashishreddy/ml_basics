@@ -190,3 +190,4 @@ id,label
 43241,0.0
 
 output ela csv file lo ravali
+chesaka msg pettu
