@@ -34,3 +34,37 @@ reply ichi saavandi first
 
 hashish, i have uploaded the file for you. see that ra. and let me know if its okay. see the final score.
 
+
+y=df['']
+
+
+/opt/anaconda3/lib/python3.9/site-packages/pandas/core/indexes/base.py in get_loc(self, key, method, tolerance)
+   3360             try:
+-> 3361                 return self._engine.get_loc(casted_key)
+   3362             except KeyError as err:
+
+/opt/anaconda3/lib/python3.9/site-packages/pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+/opt/anaconda3/lib/python3.9/site-packages/pandas/_libs/index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+pandas/_libs/hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+KeyError: ''
+
+The above exception was the direct cause of the following exception:
+
+KeyError                                  Traceback (most recent call last)
+/tmp/ipykernel_27545/1592312252.py in <module>
+----> 1 y=df['']
+
+/opt/anaconda3/lib/python3.9/site-packages/pandas/core/frame.py in __getitem__(self, key)
+   3456             if self.columns.nlevels > 1:
+...
+-> 3363                 raise KeyError(key) from err
+   3364 
+   3365         if is_scalar(key) and isna(key) and not self.hasnans:
+
+KeyError: ''
+
