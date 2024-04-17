@@ -54,3 +54,5 @@ label
 0 -    48411
 
 these are no. of 1s and 0s in the data set
+
+there are no outlayers
