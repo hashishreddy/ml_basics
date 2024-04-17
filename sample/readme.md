@@ -23,3 +23,6 @@ yeah sure. shall I just name train.ipynb, train_5_model.ipynb, val.ipynb ?
 
 to fix the memory error sir asked to use a part of orginal data set
 can you do tht?
+
+
+okay sure. can I know where actually are you getting the error? I mean after running which cell ?
