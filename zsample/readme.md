@@ -191,3 +191,11 @@ id,label
 
 output ela csv file lo ravali
 chesaka msg pettu
+
+
+adithya-
+df_predictions = pd.DataFrame({'RandomForest': y_pred_rf, 'LogisticRegression': y_pred_lr, 'XGBoost': y_pred_xgb})
+
+
+df_predictions.to_csv('predictions.csv', index=False)
+to convert to CSV files is anybody else other than hashish seeing this ???
