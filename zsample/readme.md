@@ -171,3 +171,22 @@ this is the extension for the latest file I uploaded for predicting label
 harshil na code lo update chey ra
 harshil - updating it ra. just a min
 ok
+
+
+id,label
+102165,1.0
+54425,1.0
+58825,1.0
+85054,1.0
+93048,1.0
+69512,1.0
+49298,0.99
+159406,1.0
+144618,1.0
+59269,1.0
+9874,0.0
+100832,1.0
+98179,1.0
+43241,0.0
+
+output ela csv file lo ravali
