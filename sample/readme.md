@@ -43,3 +43,6 @@ harshil - shall i send you the final csv file which contains all the labels? can
 hashish - send it
 
 harshil - i have shared pdf of the both the trainings(one with the train dataset and the other with the val dataset) and have also shared the csv file of the predictions which are make on the val dataset. Let me know if anything more is to be submitted
+
+
+thank you for the csv file
