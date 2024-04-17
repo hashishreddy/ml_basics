@@ -86,3 +86,5 @@ harshil - i have kept one more code named Untitled.ipynb with accuracy 0.99. who
 
 
 hashish - harshil now we have to use this model and predict the lable for the Cyber1_val_students.csv data set
+
+harshil - okay, so should i do the dump and pickle the model for the Cyber1_val_students.csv dataset?
