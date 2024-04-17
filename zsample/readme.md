@@ -28,3 +28,5 @@ reply fast
 uploaded new.ipynb
 there is random forest , logistic and xgboost 
 take each one tell here  who are taking what and the one taking logistic also add random or xgboost for like better output
+
+reply ichi saavandi firstu
