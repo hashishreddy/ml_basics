@@ -25,7 +25,7 @@ can you guys talk to each other ?
 reply fast
 
 
-uploaded new.ipynb
+uploaded new.ipynb for akhila tara and hashish
 there is random forest , logistic and xgboost 
 take each one tell here  who are taking what and the one taking logistic also add random or xgboost for like better output
 
