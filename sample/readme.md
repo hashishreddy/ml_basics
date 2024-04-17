@@ -49,3 +49,8 @@ thank you for the csv file
 wwhat should i write for the eda
 
 write that there are no null values
+label
+1    220685
+0     48411
+
+these are no. of 1s and 0s in the data set
