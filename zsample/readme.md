@@ -80,4 +80,4 @@ adithya - i updated new.ipynb again now i added accuracy function and if u guys 
 tell me if its working ra i gotta go
 
 
-harshil - i have kept one more code with accuracy 0.99. who ever wants use it guys. 
+harshil - i have kept one more code named Untitled.ipynb with accuracy 0.99. who ever wants use it guys. and let others know that you are using so that there will be no confusion.
