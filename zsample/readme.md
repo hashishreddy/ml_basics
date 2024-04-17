@@ -67,4 +67,4 @@ KeyError                                  Traceback (most recent call last)
    3365         if is_scalar(key) and isna(key) and not self.hasnans:
 
 KeyError: ''
-
+harshil i am getting this error
